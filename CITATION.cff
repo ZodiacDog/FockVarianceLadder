@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: If you use this work, please cite it using the metadata in this file.
+title: "The Fock Variance Ladder: Unit Variance Steps of the Quantum Harmonic Oscillator and the ML Identity Family — a pedagogical note"
+version: "2.0"
+date-released: "2026-11-23"
+type: software
+license:
+  - MIT
+  - CC-BY-4.0
+authors:
+  - family-names: McKnight
+    given-names: Michael L.
+    affiliation: "ML Innovations Research Lab"
+    email: "ml.innovation.research.lab@gmail.com"
+url: "https://github.com/ZodiacDog/FockVarianceLadder"
+repository-code: "https://github.com/ZodiacDog/FockVarianceLadder"
+keywords:
+  - quantum harmonic oscillator
+  - Fock states
+  - quadrature variance
+  - ML Identity
+  - pedagogical note
+abstract: >-
+  Pedagogical note on the Fock-state quadrature variances n + 1/2 of the
+  quantum harmonic oscillator, the unit step between adjacent rungs, and the
+  ML Identity family of consecutive-integer identities. This deposit is an
+  unrefereed preprint. The paper, figures, and text are licensed under
+  CC BY 4.0; the code is licensed under MIT.
+preferred-citation:
+  type: unpublished
+  authors:
+    - family-names: McKnight
+      given-names: Michael L.
+      affiliation: "ML Innovations Research Lab"
+      email: "ml.innovation.research.lab@gmail.com"
+  title: "The Fock Variance Ladder: Unit Variance Steps of the Quantum Harmonic Oscillator and the ML Identity Family — a pedagogical note"
+  year: 2026
+  notes: "Unrefereed preprint, version 2.0. ML Innovations Research Lab, Pheba, MS."

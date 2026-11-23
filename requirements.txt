@@ -1,0 +1,7 @@
+# Runtime dependencies for the verification suite and figure regeneration.
+# python-docx is only needed to rebuild the Word documents, not to run
+# fvl_verify.py or regen_figures.py, and is not installed in CI.
+numpy>=1.24
+scipy>=1.11
+sympy>=1.12
+matplotlib>=3.7
